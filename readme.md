@@ -1,8 +1,6 @@
 [![Magento 2](https://img.shields.io/badge/Magento2-yes-green.svg)](https://github.com/mSengera/Magento-2-CSV-to-301-Redirect-Extension)
 
 # [Magento 2] Sengera/DreiNullEins
-301 redirects via CSV
-
 A extension to declare a CSV File with certain redirect pairs (New Url and Old Url).
 If Magento 2 try to force an 404 error this extension check first: "Contains the CSV the requested URL?"
 If the CSV contain the requested URL the extension will redirect to the new url and send a 301 to the browser.
