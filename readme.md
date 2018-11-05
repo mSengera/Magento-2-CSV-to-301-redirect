@@ -19,4 +19,4 @@ Installation
 6. Rewrite templates and customize them.
 7. Test extension and be happy.
 
-Best regards and happy coding!
+Best regards and happy coding! 
